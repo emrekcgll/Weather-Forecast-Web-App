@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6026fd7d-18b5-491a-9c75-c2f76ca1a190": {
+      "ProjectGuid": "6026fd7d-18b5-491a-9c75-c2f76ca1a190",
+      "DisplayName": "WebWeatherApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

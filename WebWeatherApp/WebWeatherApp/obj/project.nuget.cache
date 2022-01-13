@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o0rPbLIk5DpWYRcRrQdqTuHQbbUxdnvKfrKSD/I35yytslLtcUbVWi0Q8672o0/Vl1gEbrvxPwQUcnWUBn421A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emre\\source\\repos\\WebWeatherApp\\WebWeatherApp\\WebWeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}

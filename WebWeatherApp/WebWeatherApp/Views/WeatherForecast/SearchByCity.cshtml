@@ -1,0 +1,20 @@
+﻿@model WebWeatherApp.Models.SearchByCity
+
+@{ 
+    ViewData["Title"]="SearchByCity"; 
+}
+
+<div class="container">
+    <form method="post">
+        <div class="container">
+            <h2>Şehir İsmini Giriniz</h2>
+            <div>
+                <input asp-for="CityName" class="form-control" />
+                <button asp-controller="WeatherForecast" asp-action="SearchByCity" class="btn btn-outline-primary">
+                    Ara
+                </button>
+                <span asp-validation-for="CityName" class="text-danger"></span>
+            </div>
+        </div>
+    </form>
+</div>
